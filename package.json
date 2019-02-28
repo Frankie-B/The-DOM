@@ -1,0 +1,22 @@
+{
+  "name": "the-dom",
+  "version": "1.0.0",
+  "description": "eslint config file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frankie-B/The-DOM.git"
+  },
+  "keywords": [
+    "DOM"
+  ],
+  "author": "Frnakie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frankie-B/The-DOM/issues"
+  },
+  "homepage": "https://github.com/Frankie-B/The-DOM#readme"
+}
